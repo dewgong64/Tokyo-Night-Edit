@@ -184,10 +184,6 @@
   border-bottom: 2px var(--background-tertiary) solid;
   transition: border-color .15s ease;
 }
-.scrollableContainer__33e06:hover,
-.scrollableContainer__33e06:focus-within {
-  border-bottom-color: var(--accent-color);
-}
 .emptyChannelIcon__1a1ba {
   background-color: var(--background-tertiary);
 }
