@@ -7,7 +7,7 @@
   --text-positive: hsl(89, calc(var(--saturation-factor, 1)*51%),61%) !important;
   --text-warning: hsl(39, calc(var(--saturation-factor, 1)*66%), 64%) !important;
   --text-danger: hsl(349, calc(var(--saturation-factor, 1)*89%), 72%) !important;
-  --text-link: hsl(217, calc(var(--saturation-factor, 1)*40%), 56%) !important;
+  --text-link: hsl(240, calc(var(--saturation-factor, 1)*40%), 50%) !important;
   --info-positive-background: hsla(89,calc(var(--saturation-factor, 1)*51%),61%,0.8) !important;
   --info-positive-foreground: var(--text-positive);
   --info-warning-background: hsla(39,calc(var(--saturation-factor, 1)*66%),64%,0.8) !important;
