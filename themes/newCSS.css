@@ -161,14 +161,6 @@
   background-color: var(--background-primary) !important;
 }
 
-/* Chat Box */
-.buttons_ce5b56 {
-  opacity: 0;
-  transition: opacity .15s;
-}
-.channelTextArea__2e60f:hover .buttons_ce5b56 {
-  opacity: 1;
-}
 .placeholder_e68c63 {
   color: var(--text-muted) !important;
 }
